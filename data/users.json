@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "username": "john"
+  },
+  {
+    "id": 2,
+    "first_name": "Alice",
+    "last_name": "Wonderland",
+    "username": "alice"
+  },
+  {
+    "id": 3,
+    "first_name": "Donald",
+    "last_name": "Thea",
+    "username": "donald"
+  },
+  {
+    "id": 4,
+    "first_name": "Dev",
+    "last_name": "Catharine",
+    "username": "dev"
+  },
+  {
+    "id": 5,
+    "first_name": "Carter",
+    "last_name": "Dwayne",
+    "username": "carter"
+  }
+]
